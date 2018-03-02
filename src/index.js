@@ -1,3 +1,4 @@
+import 'babel-polyfill';
 import style from './scss/index.scss';
 import App from './containers/App';
 import ReactDOM from 'react-dom';

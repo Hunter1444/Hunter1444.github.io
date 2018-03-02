@@ -1,16 +1,16 @@
 const json = [
   {
-    name: 'адын',
+    name: 'Телефон',
     price: 100,
     discount: '',
   },
   {
-    name: 'dva',
+    name: 'Магнитофон',
     price: 200,
     discount: '',
   },
   {
-    name: 'тры',
+    name: 'Миелофон',
     price: 400,
     discount: '',
   },

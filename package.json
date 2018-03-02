@@ -24,6 +24,7 @@
   },
   "dependencies": {
     "babel-loader": "^8.0.0-beta.0",
+    "babel-polyfill": "^6.26.0",
     "css-loader": "^0.28.8",
     "file-loader": "^1.1.6",
     "html-webpack-plugin": "^2.30.1",
